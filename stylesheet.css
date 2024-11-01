@@ -12,3 +12,8 @@ body {
 .bd-mode-toggle .dropdown-menu .active .bi {
     display: block !important;
 }
+
+.footer {
+    color: white;
+    text-align: center;
+}
