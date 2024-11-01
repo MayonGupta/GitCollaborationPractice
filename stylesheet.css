@@ -17,3 +17,8 @@ body {
     color: white;
     text-align: center;
 }
+
+.logo {
+    height: 4rem;
+    width: 4rem;
+}
