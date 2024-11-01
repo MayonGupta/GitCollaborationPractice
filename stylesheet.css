@@ -1,0 +1,19 @@
+/* Fixed below navbar */
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}  
+
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+.bd-mode-toggle .dropdown-menu .active .bi {
+    display: block !important;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+}
