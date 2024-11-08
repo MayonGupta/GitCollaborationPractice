@@ -31,3 +31,12 @@ body {
     margin-top: -0.5rem;
     margin-bottom: 1rem;
 }
+
+.img-header {
+    display: block;
+    max-height: 30vh;
+    max-width: 100%;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
