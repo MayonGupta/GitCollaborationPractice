@@ -1,5 +1,5 @@
-function changeImage(){
+function changeImage(link){
     var img = document.getElementById("vImage");
-    img.src = button.value;
+    img.src = link;
     return false;
 }
